@@ -1111,7 +1111,7 @@ task.spawn(function()
     end
 end)
 
-local Killer = window:AddTab("Kill")
+local Killer = window:AddTab("Kills OP")
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -3524,7 +3524,7 @@ end)
 
 
 
-local Calculadora = window:AddTab("calculator", Color3.fromRGB(200, 100, 100))
+local Calculadora = window:AddTab("Calculadora 2", Color3.fromRGB(200, 100, 100))
 
 local baseStrength = 0
 local resultadoLabelsDamage = {}
