@@ -4124,7 +4124,7 @@ pets:AddSwitch("Auto Buy Ultimates", function(bool)
     end
 end)
 
-local farmTab = window:AddTab("Rock")
+local farmTab = window:AddTab("Rocks")
 farmTab:AddLabel("Rock Farming")
  
 local function gettool()
