@@ -3364,7 +3364,7 @@ end)
 for _, option in ipairs(timeOptions) do
     timeDropdown:Add(option)
 end
-local teleport = window:AddTab("Teleport")
+local teleport = window:AddTab("TP Areas")
 
 teleport:AddButton("Spawn", function()
     local player = game.Players.LocalPlayer
